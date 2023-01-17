@@ -15,7 +15,7 @@ I am 23 years old, Lorem.
 * 1C
 ## Code Examples:
 
-`console.log('Hello world')`
+`console.log('Lorem')`
 
 ## Education:
 
