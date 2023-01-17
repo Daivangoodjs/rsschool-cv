@@ -1,16 +1,16 @@
 # Alexandr Yuzhakov
-====
+
 ## My Contact info:
-====
+
 * __Phone__ +7 912 077 79 29
 * __E-mail__ Tf_2@inbox.ru
 * __GitHab__ Daivangoodjs
-====
+
 ## About Me:
 I am 23 years old, Lorem. 
 
 ## Skills:
-* Revir
+* Revit
 * Archicad
 * 1C
 ## Code Examples:
