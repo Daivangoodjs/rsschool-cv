@@ -59,17 +59,13 @@
             <h2>About Me</h2>
             <p>I am 23 years old. Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero, harum? Necessitatibus aspernatur similique animi facere deleniti, accusamus quaerat. Est ipsa atque officia consequatur molestias debitis amet doloremque assumenda vel illum. </p>
             <h2>Code Examples</h2>
-             <pre> function peak(arr) {
-
-                for (let i = 1; i < arr.length - 1; i++) {
-                  let leftSum = arr.slice(0, i).reduce((accumulator, currentValue) => accumulator + currentValue);
-                  let rightSum = arr.slice(i + 1).reduce((accumulator, currentValue) => accumulator + currentValue);
-              
-                  if (leftSum === rightSum) return i;
-                }
-                return -1;
-              }</pre>
-
+             <pre> const namberFn = (start, finish) => {
+                let i = start;
+                let nam = 1;
+                while (i <= finish) {
+                  nam = nam * i;
+                  i = i + 1;
+             </pre>
         </div>
     </main> 
     
